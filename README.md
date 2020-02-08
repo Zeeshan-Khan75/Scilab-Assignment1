@@ -1,1 +1,3 @@
-# Scilab-Assignment1
+NAME:Mohammed Zeeshan
+srn:PES1201801814
+ROLL NO:46
