@@ -1,5 +1,5 @@
 clc
-funcprot(0)   //if variables are redefined do nothing
+funcprot(0)  
 format('v',10)
 A = input("Enter a matrix: ")
 
